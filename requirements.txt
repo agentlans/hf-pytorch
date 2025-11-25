@@ -1,0 +1,24 @@
+transformers @ git+https://github.com/huggingface/transformers.git
+accelerate >= 0.21.0
+albumentations >= 1.4.16
+datasets>=4.0
+datasets[audio] >= 1.18.0
+evaluate
+jiwer
+librosa
+nltk
+Pillow
+protobuf
+py7zr
+pycocotools
+rouge-score
+sacrebleu >= 1.4.12
+scikit-learn
+scipy
+sentencepiece != 0.1.92
+seqeval
+timm
+torch>=1.6
+torchaudio
+torchmetrics
+torchvision>=0.6.0
