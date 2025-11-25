@@ -44,12 +44,12 @@ PyTorch training scripts from Huggingface Transformers bundled into a self-conta
    run_clm
    run_translation
    ```
-   The `.py` extension isn't necessary.
+   without the `.py` extension.
 
 ## Help
 - [List of scripts available](https://github.com/agentlans/hf-pytorch/tree/master/src/hf_pytorch) in this package.
-- Also run the `-h` flag to see the options available for each script.
-- For additional information, see the original scripts [here](https://github.com/huggingface/transformers/tree/main/examples/pytorch).
+- Also use the `-h` flag to see the options available for each script.
+- For more information, the original scripts are [here](https://github.com/huggingface/transformers/tree/main/examples/pytorch).
 
 ## Licence
 
